@@ -1,1 +1,6 @@
 https://blog.csdn.net/u011127019/article/details/53158660
+bug1:"Bower : ENOGIT git is not installed or not in the PATH"问题
+-->下载git for windows版本的git安装包， 双击安装程序进行安装
+
+bug2:bower install 报错 ECMDERR
+--> git config --global url."https://".insteadOf "git://"
